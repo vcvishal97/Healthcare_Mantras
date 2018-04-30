@@ -1,0 +1,23 @@
+.element article{display:block; max-width:320px; margin:0 auto;}
+.element figure{position:relative;}
+.element figure figcaption{position:absolute; top:10px; left:10px; width:50px;}
+.element figure figcaption *{display:block; margin:0; padding:0; text-align:center; text-transform:uppercase; font-style:normal; line-height:1;}
+.element figure figcaption time, .element figure figcaption div{width:100%; padding:12px 0;}
+.element figure figcaption time strong, .element figure figcaption div i{margin-bottom:2px;}
+.element .txtwrap{padding:20px 15px;}
+.element .txtwrap *{margin:0 0 15px 0; line-height:1;}
+.element .txtwrap .heading{margin-bottom:15px; font-size:1.2rem;}
+.element .txtwrap em{display:block; font-size:.8rem; font-style:normal;}
+.element .txtwrap em br{margin:0;}
+.element .txtwrap p{line-height:1.4;}
+.element .txtwrap footer, .element .txtwrap .btn{margin:0;}
+
+
+
+
+
+
+.element figure figcaption time{color:#474747; background-color:#F7F7F7;}
+.element figure figcaption div{color:#FFFFFF; background-color:rgba(0,0,0,.65);}
+.element figure figcaption div a{color:inherit;}
+.element .txtwrap{color:#474747; background-color:#FFFFFF;}

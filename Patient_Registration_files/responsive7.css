@@ -1,0 +1,120 @@
+@media all and (max-width:480px), only screen and (max-device-width:480px) and (min-device-width:320px)
+{
+.form_table {
+	padding: 1px; border-radius: 0px !important; width: 100% !important; overflow: visible !important; box-sizing: border-box;
+}
+.outside_container {
+	padding: 1px; border-radius: 0px !important; width: 100% !important; overflow: visible !important; box-sizing: border-box;
+}
+.order_summary {
+	width: 90%;
+}
+.scoring_summary {
+	width: 90%;
+}
+.q {
+	margin-left: 0px !important; float: none !important;
+}
+.q .left_question {
+	width: auto !important; text-align: left; padding-right: 0px; padding-left: 0px; margin-top: 0px; float: none !important;
+}
+.q .left_question_first {
+	width: auto !important; text-align: left; padding-right: 0px; padding-left: 0px; margin-top: 0px; float: none !important;
+}
+.q .right_question {
+	width: auto !important; text-align: left; padding-right: 0px; padding-left: 0px; margin-top: 0px; float: none !important;
+}
+.q .right_question {
+	margin-top: 0.2em;
+}
+.q .top_question {
+	margin-bottom: 0.2em; min-height: 0px;
+}
+.q .left_question {
+	margin-bottom: 0.2em; min-height: 0px;
+}
+.q .left_question_first {
+	margin-bottom: 0.2em; min-height: 0px;
+}
+.q .drop_down {
+	width: 100% !important; box-sizing: border-box;
+}
+.q .text_field {
+	width: 100% !important; box-sizing: border-box;
+}
+.q .file_upload {
+	width: 100% !important; box-sizing: border-box;
+}
+.q .signature {
+	width: 100% !important; box-sizing: border-box;
+}
+.q .signature-clear {
+	width: 100% !important; box-sizing: border-box;
+}
+.q .inline_answer {
+	float: none;
+}
+.q .text_field.calendar_field {
+	width: auto !important;
+}
+.q .inline_grid {
+	width: 100%;
+}
+.q .inline_grid td {
+	width: 100%; padding-right: 0px !important; padding-left: 0px !important; clear: both; float: left; display: block;
+}
+.q .inline_grid .text_field {
+	width: 100%; display: block;
+}
+.q .matrix {
+	width: 100%; padding-right: 0px !important; padding-left: 0px !important;
+}
+.q .rating_ranking {
+	width: 100%; padding-right: 0px !important; padding-left: 0px !important;
+}
+.q .text_list {
+	width: 100%; padding-right: 0px !important; padding-left: 0px !important;
+}
+.q .rating_ranking td:first-child {
+	width: 30%;
+}
+.q .text_list td:first-child {
+	width: 100%;
+}
+.q .text_list td img {
+	min-width: 16px;
+}
+.q .image_list label .image_list_image_choice {
+	padding: 6px;
+}
+.q .page_header img {
+	float: none !important;
+}
+.q img.text_field {
+	height: auto;
+}
+.q .saveReturn div {
+	width: 100% !important; float: none !important; display: block !important; max-width: none;
+}
+.q .saveReturn .sRright {
+	margin-top: 10px;
+}
+.outside_container .submit_button {
+	width: 100% !important; margin-right: 0px !important; margin-left: 0px !important; float: none !important;
+}
+.segment_header {
+	width: auto !important;
+}
+td.payment-option a {
+	width: auto; display: block;
+}
+}
+@media all and (max-width:649px), all and (orientation:portrait) and (device-width:768px) and (device-height:1024px), all and (orientation:landscape) and (device-width:768px) and (device-height:1024px)
+{
+.form_table {
+	padding: 1px; border-radius: 0px !important; width: 100% !important; overflow: visible !important; box-sizing: border-box;
+}
+.outside_container {
+	padding: 1px; border-radius: 0px !important; width: 100% !important; overflow: visible !important; box-sizing: border-box;
+}
+}
